@@ -11,10 +11,15 @@ Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
 **Project Workflow**
 Connected raw customer churn data using Power BI Get Data.
+
 Cleaned, formatted, and reshaped data using Power Query.
+
 Built data models and relationships for analytical reporting.
+
 Created calculated measures using DAX.
+
 Designed interactive dashboards with filters and slicers.
+
 Published and shared the report using Power BI Service.
 
 **Key Insights**
