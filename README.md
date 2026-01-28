@@ -1,15 +1,15 @@
-# Customer-Churn-Analysis📉 Customer Churn Analysis using Power BI
+# Customer Churn Analysis using Power BI
 
-Project Overview
+**Project Overview**
 Customer churn has a direct impact on business revenue and growth. This project demonstrates an end to end Power BI solution to analyze customer churn using a banking dataset, from raw data ingestion to report publishing.
 
-Dataset
+**Dataset**
 Bank Customer Churn Dataset
 
-Tools & Technologies
+**Tools & Technologies**
 Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
-Project Workflow
+**Project Workflow**
 
 Connected raw customer churn data using Power BI Get Data
 
@@ -23,7 +23,7 @@ Designed interactive dashboards with filters and slicers
 
 Published and shared the report using Power BI Service
 
-Key Insights
+**Key Insights**
 
 Identified churn trends based on customer tenure and balance
 
@@ -31,5 +31,5 @@ Highlighted high risk customer segments
 
 Enabled data driven retention analysis through visual reporting
 
-Outcome
+**Outcome**
 Delivered a complete customer churn analysis report suitable for business decision making and stakeholder presentation.
