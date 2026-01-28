@@ -10,17 +10,17 @@ Bank Customer Churn Dataset
 Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
 **Project Workflow**
-Connected raw customer churn data using Power BI Get Data
-Cleaned, formatted, and reshaped data using Power Query
-Built data models and relationships for analytical reporting
-Created calculated measures using DAX
-Designed interactive dashboards with filters and slicers
-Published and shared the report using Power BI Service
+Connected raw customer churn data using Power BI Get Data.
+Cleaned, formatted, and reshaped data using Power Query.
+Built data models and relationships for analytical reporting.
+Created calculated measures using DAX.
+Designed interactive dashboards with filters and slicers.
+Published and shared the report using Power BI Service.
 
 **Key Insights**
-Identified churn trends based on customer tenure and balance
-Highlighted high risk customer segments
-Enabled data driven retention analysis through visual reporting
+Identified churn trends based on customer tenure and balance.
+Highlighted high risk customer segments.
+Enabled data driven retention analysis through visual reporting.
 
 **Outcome**
 Delivered a complete customer churn analysis report suitable for business decision making and stakeholder presentation.
